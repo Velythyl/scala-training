@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\Stors\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar -classpath C:\Users\Stors\IdeaProjects\st_SBTExampleProject\target\scala-2.12\classes C:\Users\Stors\IdeaProjects\st_SBTExampleProject\src\main\scala\example\Main.scala
